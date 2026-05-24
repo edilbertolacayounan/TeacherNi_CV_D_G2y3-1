@@ -51,3 +51,4 @@ En esta actividad aprenderás a usar Git y GitHub para trabajar con repositorios
      ```
 
 ¡Listo! Con esto habrás completado la práctica de control de versiones.
+Juan David Diaz Coronado hora:12:38PM  Clase dde verciones_GRP3_JDDC
